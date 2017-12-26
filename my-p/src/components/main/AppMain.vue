@@ -42,4 +42,9 @@
     body{
     	background:$basecolor;
     }
+    header{
+    	width:100%;
+    	height:0.44rem;
+    	background:#999;
+    }
 </style>
